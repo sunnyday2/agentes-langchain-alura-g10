@@ -5,9 +5,9 @@ Este repositorio contiene los scripts de un agente ReAct para análisis de datos
 ## Configurar el ambiente de desarrollo
 
 Descarga el proyecto y ubícate dentro de su directorio. Abre una terminal en esta ubicación y crea un ambiente virtual con el siguiente comando:
-
+```
 python -m venv .venv
-
+```
 
 Esto creará el directorio del ambiente virtual. Dependiendo de tu sistema operativo, el script de activación se encontrará en una carpeta interna diferente (```Scripts``` en Windows o ```bin``` en macOS/Linux).
 
