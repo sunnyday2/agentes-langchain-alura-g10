@@ -41,7 +41,7 @@ Al hacerlo, el indicador (.venv) desaparecerá de tu terminal de inmediato.
 
 ## Configuración de secretos
 
-Dentro del directorio raíz del proyecto, crea un archivo llamado .env. Agrega tu llave de API de Groq de la siguiente manera y guarda el archivo:
+Dentro del directorio raíz del proyecto, crea un archivo llamado ```.env```. Agrega tu llave de API de Groq de la siguiente manera y guarda el archivo:
 ```
 GROQ_API_KEY="gsk_PZU316B..."
 ```
@@ -64,7 +64,7 @@ streamlit run app.py
 
 ### Captura de pantalla de la aplicación
 
-(![Texto alternativo](localhost.jpg))
+![Texto alternativo](localhost.jpg)
 
 ### Solución de problemas (Segmentation Fault)
 
